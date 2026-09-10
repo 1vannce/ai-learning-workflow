@@ -1,4 +1,4 @@
-# AI Learning System
+# AI Learning Workflow
 
 This repository is a provider-agnostic wrapper around the ideas from [amosblomqvist/learn](https://github.com/amosblomqvist/learn), adapted so the same teaching workflow can be used with external agent environments such as Claude, Codex, and GitHub Copilot.
 
